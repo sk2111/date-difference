@@ -15,6 +15,7 @@
   color: white;
   cursor: pointer;
   height: 32px;
+  margin-left: 10px;
 }
 p {
   font-weight: bold;
